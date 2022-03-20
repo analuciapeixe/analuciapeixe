@@ -13,7 +13,7 @@
         <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
         <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img align="right"   height="150px" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/597326_8pyfMuDY.png"/>
+        <img align="right"   height="200px" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/597326_8pyfMuDY.png"/>
       </div>
 
   ##
