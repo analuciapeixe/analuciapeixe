@@ -24,3 +24,6 @@
    <a href="https://discord.com/channels/267624335836053506/723655946672275466" rel="external" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target=_blank"></a>
     <a href="/_/scs/mail-static/_/js/k=gmail.main.pt_BR.askoKw7IB38.es5.O/am=AJfE…xk21l0UFJ2huclfLhZdmmpSl7g/cb=loaded_3/m=ebdd,sps,l,spit,t,it,lLYctc,anc" rel="external" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank"></a>
   </div>
+
+     ![Snake animation](https://github.com/analuciapeixe/analuciapeixe/blob/output/github-contribution-grid-snake.svg)
+     
