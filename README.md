@@ -1,7 +1,8 @@
 ### Oiiiii! Aqui é a Ana Lúcia Peixe.
 
-- 🌱 Estou estudando HTML, CSS e JavaScript.
-- 😄 ela/dela
+-Curso Técnico Redes de Computadores 5/6
+-Desenvolvedora Front-End
+
 ##
 
  <div align="center">
