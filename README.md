@@ -1,7 +1,7 @@
 ### Oiiiii! Aqui é a Ana Lúcia Peixe.
 
--Curso Técnico Redes de Computadores 5/6
--Desenvolvedora Front-End
+<p>-Curso Técnico Redes de Computadores 5/6</p> <br>
+<p>-Desenvolvedora Front-End</p>
 
 ##
 
